@@ -1,4 +1,4 @@
-# 🎮 Advanced Video Game Price Prediction Model
+# 🎮 Video Game Price Prediction Model
 
 <div align="center">
 
