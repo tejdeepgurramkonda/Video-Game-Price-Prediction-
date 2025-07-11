@@ -1,4 +1,4 @@
-# 🎮 Video Game Price Prediction Model
+# 🎮 Advanced Video Game Price Prediction Model
 
 <div align="center">
 
@@ -14,9 +14,11 @@
 
 [📊 Live Demo](#-usage) • [📖 Documentation](#-detailed-analysis) • [🔧 Installation](#-installation--setup) • [💡 Insights](#-key-insights--business-value)
 
-[![Model Performance](https://img.shields.io/badge/Model_Accuracy-85%2B-success?style=for-the-badge)](https://github.com)
-[![SHAP Analysis](https://img.shields.io/badge/SHAP-Interpretable_AI-orange?style=for-the-badge)](https://github.com)
-[![Features](https://img.shields.io/badge/Features-100%2B-blue?style=for-the-badge)](https://github.com)
+[![Model Performance](https://img.shields.io/badge/Model_Accuracy-85%2B-success?style=for-the-badge)](https://github.com/tejdeepgurramkonda/videogame-price-prediction)
+[![SHAP Analysis](https://img.shields.io/badge/SHAP-Interpretable_AI-orange?style=for-the-badge)](https://github.com/tejdeepgurramkonda/videogame-price-prediction)
+[![Features](https://img.shields.io/badge/Features-100%2B-blue?style=for-the-badge)](https://github.com/tejdeepgurramkonda/videogame-price-prediction)
+
+**Created by**: [Tejdeep Gurram Konda](https://github.com/tejdeepgurramkonda) | **Data Scientist & ML Engineer**
 
 </div>
 
@@ -273,7 +275,7 @@ Git (optional)
 
 ```powershell
 # Clone repository
-git clone https://github.com/yourusername/videogame-price-prediction.git
+git clone https://github.com/tejdeepgurramkonda/videogame-price-prediction.git
 cd videogame-price-prediction
 
 # Create virtual environment
@@ -294,7 +296,7 @@ jupyter notebook "Videogame Prediction (1).ipynb"
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/videogame-price-prediction.git
+git clone https://github.com/tejdeepgurramkonda/videogame-price-prediction.git
 cd videogame-price-prediction
 
 # Create virtual environment
@@ -754,14 +756,14 @@ We welcome contributions from the community! Here's how you can help:
 
 <div align="center">
 
-[![Contributors](https://contrib.rocks/image?repo=yourusername/videogame-price-prediction)](https://github.com/yourusername/videogame-price-prediction/graphs/contributors)
+[![Contributors](https://contrib.rocks/image?repo=tejdeepgurramkonda/videogame-price-prediction)](https://github.com/tejdeepgurramkonda/videogame-price-prediction/graphs/contributors)
 
 </div>
 
 #### **🎯 Ways to Contribute**
 
-1. **🐛 Bug Reports**: Found an issue? [Create an issue](https://github.com/yourusername/videogame-price-prediction/issues)
-2. **💡 Feature Requests**: Have an idea? [Request a feature](https://github.com/yourusername/videogame-price-prediction/issues)
+1. **🐛 Bug Reports**: Found an issue? [Create an issue](https://github.com/tejdeepgurramkonda/videogame-price-prediction/issues)
+2. **💡 Feature Requests**: Have an idea? [Request a feature](https://github.com/tejdeepgurramkonda/videogame-price-prediction/issues)
 3. **📝 Documentation**: Improve our documentation
 4. **🧪 Testing**: Add test cases and improve coverage
 5. **🔧 Code**: Submit pull requests with improvements
@@ -773,7 +775,7 @@ We welcome contributions from the community! Here's how you can help:
 
 ```bash
 # 1. Fork the repository
-git clone https://github.com/yourusername/videogame-price-prediction.git
+git clone https://github.com/tejdeepgurramkonda/videogame-price-prediction.git
 cd videogame-price-prediction
 
 # 2. Create a feature branch
@@ -825,10 +827,12 @@ git push origin feature/amazing-new-feature
 
 #### **📧 Contact Options**
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yourserver)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tejdeepgurramkonda)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tejdeepgurramkonda)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tejdeepgurramkonda@email.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://tejdeepgurramkonda.github.io)
+
+**Contact**: [Tejdeep Gurram Konda](https://github.com/tejdeepgurramkonda) - Data Scientist & ML Engineer
 
 </div>
 
@@ -857,7 +861,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ```
 MIT License
 
-Copyright (c) 2024 Video Game Price Prediction Project
+Copyright (c) 2024 Tejdeep Gurram Konda
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -916,13 +920,15 @@ in the Software without restriction...
 
 ## ⭐ Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/videogame-price-prediction&type=Date)](https://star-history.com/#yourusername/videogame-price-prediction&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=tejdeepgurramkonda/videogame-price-prediction&type=Date)](https://star-history.com/#tejdeepgurramkonda/videogame-price-prediction&Date)
 
 ---
 
 ### 🎮 **If this project helped you understand game pricing or build ML models, please give it a ⭐!**
 
 **Made with ❤️ for the gaming and data science communities**
+
+**Created by [Tejdeep Gurram Konda](https://github.com/tejdeepgurramkonda)**
 
 ---
 
